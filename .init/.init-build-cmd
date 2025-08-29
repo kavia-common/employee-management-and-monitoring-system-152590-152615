@@ -1,0 +1,4 @@
+{
+    "command": "npm install --legacy-peer-deps && npm run build",
+    "working_directory": "/home/kavia/workspace/code-generation/employee-management-and-monitoring-system-152590-152615/angular_frontend"
+}
